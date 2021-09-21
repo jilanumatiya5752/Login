@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874764557079",
+    "project_id": "news2port",
+    "storage_bucket": "news2port.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874764557079:android:ce5d0e4f73496c33a77552",
+        "android_client_info": {
+          "package_name": "com.example.news2port"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874764557079-qe28k0dm8k5vuu834ns4gva1lfllqasl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5H_B7TevJRzfrl57Vd863Y_p5ND8VObM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874764557079-qe28k0dm8k5vuu834ns4gva1lfllqasl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
